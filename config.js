@@ -5,8 +5,8 @@ global.tempatnye = JSON.parse(fs.readFileSync('./src/tempatnye.json'))
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['6282146092695', 'AhmdLui', 'AhmdLui', 'ayonimasangat@gmail.com', true],
-['6289655134392', 'Rika', 'Rika❤️', 'Nothing!', true]
+['6285692006004', 'mark', 'mark', 'Nothing', true],
+['6285692006004', 'mark', 'mark❤️', 'Nothing!', true]
 
 ]
 global.APIs = { // API Prefix
@@ -38,23 +38,23 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 Kami-sama'
-global.linkgc = 'https://chat.whatsapp.com/CnQV9lNcHuIENb8SQ9CaYP'
-global.linkig = 'https://www.instagram.com/ahmdlui'
+global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 Mark'
+global.linkgc = 'https://chat.whatsapp.com/IR483Ml36D9AMfF0MjAHvG'
+global.linkig = 'https://instagram.com/kurukuumd?igshid=YmMyMTA2M2Y='
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = '@ahmdlui'
+global.bodlink = '@kurukuumd'
 
 global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons==========//
 global.dtu = '𝑭𝒐𝒍𝒍𝒐𝒘'
-global.urlnya = "https://www.instagram.com/ahmdlui"
+global.urlnya = "https://instagram.com/kurukuumd?igshid=YmMyMTA2M2Y="
 
 //============= callButtons ============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 895-3362-82144'
+global.phn = '+62 856-9200-6004'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
