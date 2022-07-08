@@ -59,7 +59,7 @@ handler.all = async function (m) {
 	 { fromMe: false,
 	 participant: `0@s.whatsapp.net`, ...(m.chat ? 
 	 { remoteJid: "status@broadcast" } : {}) },
-	 message: { "liveLocationMessage": { "title": "the.sad.boy01","h": wm, 'jpegThumbnail': fs.readFileSync('./src/logo.jpg')}}
+	 message: { "liveLocationMessage": { "title": "Kurukuu-MD","h": wm, 'jpegThumbnail': fs.readFileSync('./src/logo.jpg')}}
 	}
         
             global.ftoko = {
