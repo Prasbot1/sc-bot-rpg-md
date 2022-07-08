@@ -21,7 +21,7 @@ Lalu untuk premium chat own aja
   jpegThumbnail: d },
   businessOwnerJid: `${owner[0]}@s.whatsapp.net`
   },
-  footerText: 'https://github.com/AhmdLui',
+  footerText: '🗿',
   }},{})
   conn.relayMessage(prepare.key.remoteJid,prepare.message,{messageId:prepare.key.id})
 }
