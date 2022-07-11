@@ -39,7 +39,7 @@ module.exports = {
         global.colong1 = 'Ciss 📸'
         global.colong2 = ''
         global.kontak2 = [
-        ['6285692006004, 'Kurukuu-MD', 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'kosong', true],
+        ['6289666747744', 'Own Kurobu', 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'kosong', true],
         ['6282140373458', 'Raxcel-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
         ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
         ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
